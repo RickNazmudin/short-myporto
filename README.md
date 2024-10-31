@@ -1,1 +1,1 @@
-Live Demo website portfolio Sity https://portfolio-sity.vercel.app/
+Live Demo website short portfolio https://shortmyportofolio.netlify.app/
